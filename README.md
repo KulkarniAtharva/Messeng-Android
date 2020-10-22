@@ -1,8 +1,9 @@
 # Messenger - Android
 
-<B>Part 1 - [Flutter Mobile App]()
-   Part 2 - [Flutter Web App]()
-Part 3 of 
+<B>Part 1 - [Flutter Mobile App]()    <BR>
+   Part 2 - [Flutter Web App]()     <BR><BR><BR>
+   Part 3 - Android App          <BR><BR><BR>
+</B>
 
 Android Chat Application developed using Android Studio & Firebase.
 
